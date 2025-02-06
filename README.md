@@ -10,8 +10,8 @@ This is a simple Rock Paper Scissors game built using Flask for the backend and 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Rock-Paper-Scissors-Game.git
+   cd your-Rock-Paper-Scissors-Game
    ```
 
 2. Install dependencies:
