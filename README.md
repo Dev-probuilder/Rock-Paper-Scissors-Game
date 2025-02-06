@@ -31,7 +31,7 @@ This is a simple Rock Paper Scissors game built using Flask for the backend and 
 
 ## Project Structure
 ```
-/your-project-folder
+/Rock-Paper-Scissors-Game
 │── app.py
 │── /templates
 │   └── index.html
